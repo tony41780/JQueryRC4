@@ -7,7 +7,7 @@
         "encryption",
         "encrypt"
     ],
-    "version": "1.0",
+    "version": "1.0.0",
     "author": {
         "name": "Tony Simek",
         "url": "https://github.com/tony41780/JQueryRC4"
