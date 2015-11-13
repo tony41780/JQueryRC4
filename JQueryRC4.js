@@ -1,6 +1,6 @@
 /* JQuery RC4 encryption/decryption
  * Copyright (c) 2009 by Tony Simek.
- * released under the terms of the Gnu Public License.
+ * released under the terms of the MIT License.
  * Email: tony.simek@gmail.com
  */
 (function($){$.fn.rc4=function(settings){
