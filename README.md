@@ -28,7 +28,7 @@ $(".SecureInput").rc4({"key":"ThisIsAGreatKey"});  //encrypting is the default m
 
 Encrypt a string and store to variable
 ```javascript
-var jsonMSG = {"to":"johndoe@fakeemail.com","msg": $.rc4DecryptStr(	$('#plainTextInput').val(),	$('#key').val()	)};
+var jsonMSG = {"to":"johndoe@fakeemail.com","msg": $.rc4DecryptStr($('#plainTextInput').val(),$('#key').val())};
 ```
 
 ### Notes
